@@ -20,6 +20,6 @@
   "dependencies": {
     "babel-preset-env": "^1.7.0",
     "save-dev": "0.0.1-security",
-    "ws": "^7.3.0"
+    "ws": "^7.4.6"
   }
 }
